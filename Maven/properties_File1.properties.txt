@@ -1,0 +1,5 @@
+#commondata
+#Fri Mar 29 12:21:58 IST 2024
+password=testuser
+url=https\://crio-qkart-frontend-qa.vercel.app/login
+username=testuser
